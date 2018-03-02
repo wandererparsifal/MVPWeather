@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPWeather</string>
+    <string name="str_getweather">获取天气</string>
+</resources>
